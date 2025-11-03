@@ -8,7 +8,6 @@ It fetches real-time exchange rates using the **ExchangeRate API**, with smooth 
 ## ✅ Features
 ✔ Real-time currency conversion  
 ✔ 100+ currencies supported  
-✔ Smooth loader animation while fetching data  
 ✔ Swap button (invert currencies instantly)  
 ✔ Minimal and responsive UI  
 
